@@ -1,11 +1,11 @@
 
 ## Hi Guys, My name is Duc Thien
-🔭 I’m currently studying Backend Development at HUTECH University.
-🌱 I’m currently learning Spring Boot, HTML, CSS, and JavaScript.
-👯 I’m looking to collaborate on backend projects and API development.
-🤔 I’m looking for help with optimizing backend performance and security.
-💬 Ask me about Java, Spring Boot, REST APIs, and web development.
-📫 How to reach me: nguyenducthienlq1@gmail.com
+- 🔭 I’m currently studying Backend Development at HUTECH University.
+- 🌱 I’m currently learning Spring Boot, HTML, CSS, and JavaScript.
+- 👯 I’m looking to collaborate on backend projects and API development.
+- 🤔 I’m looking for help with optimizing backend performance and security.
+- 💬 Ask me about Java, Spring Boot, REST APIs, and web development.
+- 📫 How to reach me: nguyenducthienlq1@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.thien.291258/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/) 
