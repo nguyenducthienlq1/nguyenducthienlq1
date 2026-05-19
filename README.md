@@ -1,6 +1,6 @@
 
 ## Hi, I'm Duc Thien
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,postman,redis,html,css,js,react,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,postman,redis,js,react,ts&theme=dark)](https://skillicons.dev)
 
 *A detail-oriented and disciplined Backend Developer with a strong sense of responsibility. I am highly adaptable, eager to learn new technologies, and focus on delivering clean, maintainable code while ensuring smooth team communication.*
 
